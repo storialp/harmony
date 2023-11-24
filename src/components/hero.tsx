@@ -10,12 +10,13 @@ export default function Hero() {
                   Stop the Designer vs Developer fight
                 </h1>
                 <div className="mt-6 text-lg leading-8 text-gray-600">
-                  <p>You upload your design, we tell you:</p>
+                  <p>Upload your design, understand:</p>
                   <ul className="list-decimal ml-8">
                     <li>How hard it is to build</li>
-                    <li>How hard it is to build</li>
-                    <li>How hard it is to build</li>
+                    <li>Easier to build alternatives </li>
+                    <li>Who has worked on similar tickets</li>
                   </ul>
+                  {/* <p>Get one technical spec document to share</p> */}
                 </div>
 
                 <div className="mt-10 flex items-center gap-x-6">
@@ -23,14 +24,14 @@ export default function Hero() {
                     href="#"
                     className="rounded-md bg-pink-400 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-pink-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-pink-400"
                   >
-                    Documentation
+                    Sign Up for the Waitlist
                   </a>
-                  <a
+                  {/* <a
                     href="#"
                     className="text-sm font-semibold leading-6 text-gray-900"
                   >
                     View on GitHub <span aria-hidden="true">→</span>
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
